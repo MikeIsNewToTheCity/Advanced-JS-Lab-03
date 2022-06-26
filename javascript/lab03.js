@@ -4,7 +4,7 @@
 */
 
 
-/* Function to populate the body of the HTML with a form */
+/* Method to populate the body of the HTML with a form */
 const init = () => {
     "use strict";
 
